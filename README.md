@@ -13,6 +13,7 @@
         $ pipenv shell
 	```
 3. Run the app using the following
-        ```
+    ```
 	$ python app.py
 	```
+4. Check the API endpoint at `http://localhost:8080`
