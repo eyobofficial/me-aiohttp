@@ -10,7 +10,7 @@
 2. Create and activate a python virtual enviroment using the following command:
 	```
 	$ pipenv install
-        $ pipenv shell
+    $ pipenv shell
 	```
 3. Run the app using the following
     ```
